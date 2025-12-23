@@ -5,7 +5,6 @@
 <p><h3 align="center"> 
   As a driven Computer Science graduate, I am on a mission to leverage technology to create real-world solutions. My journey has taken me from the classroom at GSTU to professional development at BJIT, where I’m currently working with Odoo. I’m passionate about Python, web development, and AI/ML, and I continuously strive to build impactful software that solves real problems.
 </h3></p>
-https://drive.google.com/drive/folders/19LXlcuhbeL4cYAGLBYhRK14omuObEMm6?usp=sharing
 
 ---
 
